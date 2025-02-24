@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Imad JOUDAR
 
-<!--
-**JOUDAR-Imad/JOUDAR-Imad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Web Developer** | 🌐 HTML, CSS, JavaScript, PHP, Laravel
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack:
+- Frontend: HTML5, CSS3, JavaScript, Bootstrap, Tailwind
+- Backend: PHP, Laravel
+- Tools: Git, GitHub, VS Code
+
+### 📈 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+### 📫 Contact Me:
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- Email: your-email@example.com
+
+---
+
+⭐ **Always learning and building amazing web applications!**
