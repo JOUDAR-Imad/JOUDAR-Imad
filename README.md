@@ -20,7 +20,7 @@
 
 ### 📫 Contact Me:
 - LinkedIn: [linkedin.com/in/imad-joudar](https://www.linkedin.com/in/imad-joudar/)
-- Portfolio: [yourwebsite.com]([https://yourwebsite.com](https://joudar-imad.github.io/Portfolio-Imad-JOUDAR/)
+- Portfolio: [Imad JOUDAR](https://joudar-imad.github.io/Portfolio-Imad-JOUDAR/)
 - Email: [imadjoudar76@gmail.com](mailto:imadjoudar76@gmail.com)
 
 ---
